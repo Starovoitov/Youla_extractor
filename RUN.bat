@@ -1,0 +1,1 @@
+%~dp0\venv\Scripts\python.exe selenium_youla.py %*
